@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  polaris:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-08-25T15:43:17.961359311Z"
+    description: A Helm chart for polaris
+    digest: 665af0ac399153580699277e4b24077ac1b337cc6162890c063a523896b74c5a
+    maintainers:
+    - name: trezhang
+    name: polaris
+    urls:
+    - https://github.com/lun3322/polarismesh-helm-charts/releases/download/polaris-0.0.2/polaris-0.0.2.tgz
+    version: 0.0.2
+generated: "2023-08-25T15:43:17.961371811Z"
